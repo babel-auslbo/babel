@@ -1,8 +1,8 @@
-# babel
+# Babel
 <img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/logo-babel.jpg?raw=true">https://www.ausl.bologna.it/pro/pb
 La piattaforma di gestione documentale sviluppata dall’AUSL di Bologna
 
-
+## Backend
 Il backend è rappresentato dal progetto internauta-service: 
 - https://github.com/babel-auslbo/internauta-service
 
@@ -18,6 +18,7 @@ Librerie:
 - https://github.com/babel-auslbo/blackbox
 - https://github.com/babel-auslbo/internauta-utils
 
+## Frontend
 Le applicazioni Angular sono tre ed usano un framework front-end:
 - https://github.com/babel-auslbo/nfa-library
 - https://github.com/babel-auslbo/bds-libs
