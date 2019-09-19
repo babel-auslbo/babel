@@ -1,6 +1,6 @@
 # babel
 <img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/logo-babel.jpg?raw=true">https://www.ausl.bologna.it/pro/pb
-
+La piattaforma di gestione documentale sviluppata dall’AUSL di Bologna
 
 
 Il backend è rappresentato dal progetto internauta-service: 
@@ -23,12 +23,15 @@ Le applicazioni Angular sono tre ed usano un framework front-end:
 Di seguito le applicazioni Angular:
 Scrivania internauta:
 - https://github.com/babel-auslbo/scrivania-ui
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+<img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/Scrivania%20Internauta.jpg?raw=true">
 
 BabOrg:
 - https://github.com/babel-auslbo/baborg-ui
+<img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/BabOrg%20Organigramma.jpg?raw=true">
+<img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/BabOrg%20Anagrafe%20Pec.jpg?raw=true">
 
 Pec internauta:
 - https://github.com/babel-auslbo/shpeck-ui
+<img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/Pec%20Internauta.jpg?raw=true">
 
 
