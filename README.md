@@ -8,6 +8,7 @@ Il backend è rappresentato dal progetto internauta-service:
 - https://github.com/babel-auslbo/internauta-service
 
 Si avvale di altri progetti:
+
 Il framework:
 - https://github.com/babel-auslbo/next-spring-data-rest-framework
 - https://github.com/babel-auslbo/jenesis-projections-generator
