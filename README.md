@@ -23,15 +23,15 @@ Le applicazioni Angular sono tre ed usano un framework front-end:
 Di seguito le applicazioni Angular:
 Scrivania internauta:
 - https://github.com/babel-auslbo/scrivania-ui
-<img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/Scrivania%20Internauta.jpg?raw=true">
+<img width="100%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/Scrivania%20Internauta.jpg?raw=true">
 
 BabOrg:
 - https://github.com/babel-auslbo/baborg-ui
-<img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/BabOrg%20Organigramma.jpg?raw=true">
-<img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/BabOrg%20Anagrafe%20Pec.jpg?raw=true">
+<img width="100%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/BabOrg%20Organigramma.jpg?raw=true">
+<img width="100%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/BabOrg%20Anagrafe%20Pec.jpg?raw=true">
 
 Pec internauta:
 - https://github.com/babel-auslbo/shpeck-ui
-<img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/Pec%20Internauta.jpg?raw=true">
+<img width="100%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/Pec%20Internauta.jpg?raw=true">
 
 
