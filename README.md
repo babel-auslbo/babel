@@ -10,8 +10,10 @@ Si avvale di altri progetti:
 Il framework:
 - https://github.com/babel-auslbo/next-spring-data-rest-framework
 - https://github.com/babel-auslbo/jenesis-projections-generator
+
 Il Model:
 - https://github.com/babel-auslbo/internauta-model
+
 Librerie:
 - https://github.com/babel-auslbo/blackbox
 - https://github.com/babel-auslbo/internauta-utils
