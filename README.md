@@ -1,5 +1,6 @@
 # Babel
 <img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/logo-babel.jpg?raw=true">https://www.ausl.bologna.it/pro/pb
+
 La piattaforma di gestione documentale sviluppata dall’AUSL di Bologna
 
 ## Backend
