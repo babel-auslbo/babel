@@ -21,6 +21,7 @@ Le applicazioni Angular sono tre ed usano un framework front-end:
 - https://github.com/babel-auslbo/bds-libs
 
 Di seguito le applicazioni Angular:
+
 Scrivania internauta:
 - https://github.com/babel-auslbo/scrivania-ui
 <img width="100%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/Scrivania%20Internauta.jpg?raw=true">
