@@ -1,8 +1,7 @@
 # babel
-![repo-settings-image](https://github.com/babel-auslbo/babel/blob/master/logo-babel.jpg?raw=true)
-<img width="50%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/logo-babel.jpg?raw=true">
+<img width="10%" alt="edit-this-file" src="https://github.com/babel-auslbo/babel/blob/master/logo-babel.jpg?raw=true">https://www.ausl.bologna.it/pro/pb
 
-https://www.ausl.bologna.it/pro/pb
+
 
 Il backend è rappresentato dal progetto internauta-service: 
 - https://github.com/babel-auslbo/internauta-service
